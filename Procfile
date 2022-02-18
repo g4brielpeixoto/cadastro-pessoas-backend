@@ -1,2 +1,2 @@
-release: node build/ace migration:run --force
-release: node build/ace db:seed --force
+release: node build/ace migration:run
+release: node build/ace db:seed
