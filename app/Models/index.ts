@@ -1,0 +1,5 @@
+export { default as Pessoa } from './Pessoa'
+export { default as Grupo } from './Grupo'
+export { default as PessoaFisica } from './PessoaFisica'
+export { default as PessoaJuridica } from './PessoaJuridica'
+export { default as Telefone } from './Telefone'
